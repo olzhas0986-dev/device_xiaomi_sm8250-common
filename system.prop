@@ -24,12 +24,6 @@ persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
 persist.dbg.wfc_avail_ovr=1
 
-# Infinity-X about phone definitions
-ro.infinity.soc=Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)
-ro.infinity.battery=4500 mAh
-ro.infinity.display=1080 x 2400 @120 Hz
-ro.infinity.camera=64MP + 8MP + 2MP | 20MP
-
 # Netflix
 ro.netflix.bsp_rev=Q8250-19134-1
 
